@@ -13,6 +13,8 @@ from aug 2022 through march 2023 i'm learning as much as i can about programming
 | ------------------------------------------------------------------- | :---------:|
 | [Harvard CS50X: Introduction to Computer Science](https://bit.ly/3TD8gFk) | ✅ |
 | [Harvard CS50P: Introduction to Programming with Python](https://bit.ly/3VOYzpd) | ✅ |
+| [Princeton: Programming with a Purpose](https://bit.ly/3GaaiJt) | 🔨 |
+| [Princeton: Algorithms, Theory, and Machines](https://bit.ly/2ILpmz0) | ❌ |
 | [Princeton: Algorithms, Part I](https://bit.ly/3MQBYoa) | 🔨 |
 | [Princeton: Algorithms, Part II](https://bit.ly/3gr8AJ2) | ❌ |
 | [MIT: Theory of Computation](https://bit.ly/3CTNOcG) | ❌ |
