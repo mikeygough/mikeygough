@@ -17,8 +17,8 @@ from aug 2022 through march 2023 i'm learning as much as i can about programming
 | [Princeton: Algorithms, Theory, and Machines](https://bit.ly/2ILpmz0) | ❌ |
 | [Princeton: Algorithms, Part I](https://bit.ly/3MQBYoa) | 🔨 |
 | [Princeton: Algorithms, Part II](https://bit.ly/3gr8AJ2) | ❌ |
-| [MIT: Theory of Computation](https://bit.ly/3CTNOcG) | ❌ |
-| [MIT: Introduction to Computational Thinking and Data Science ](https://bit.ly/3FVdeJQ) | ❌ |
+| [MIT 6.00.1x: Introduction to Computer Science and Programming Using Python](https://bit.ly/3Uvqo4X) | ❌ |
+| [MIT 6.00.2x: Introduction to Computational Thinking and Data Science ](https://bit.ly/3FVdeJQ) | ❌ |
 | [Harvard CS50W: Web Programming with Python and JavaScript](https://bit.ly/2Nhjqxi) | ❌ |
 | [Harvard CS50AI: Introduction to Artifical Intelligence with Python](https://bit.ly/3VRfJCw) | ❌ |
 
@@ -50,5 +50,33 @@ an introductory python programming course that teaches students how to read and 
   <li>Object-Oriented Programming</li>
 </ul>
 
+#### [Programming with a Purpose](https://bit.ly/3GaaiJt)
+<ul>
+  <li>Basic Programming Concepts</li>
+  <li>Conditionals and Loops</li>
+  <li>Arrays</li>
+  <li>Input and Output</li>
+  <li>Functions and Libraries</li>
+  <li>Recursion</li>
+  <li>Performance</li>
+  <li>Abstract Data Types</li>
+  <li>Creating Data Types</li>
+  <li>Programming Languages</li>
+</ul>
+
+
+#### [Algorithms, Theory, and Machines](https://bit.ly/2ILpmz0)
+<ul>
+  <li>Sorting and Searching</li>
+  <li>Stacks and Queues</li>
+  <li>Symbol Tables</li>
+  <li>The Theory of Computing</li>
+  <li>Turing Machines</li>
+  <li>Intractability</li>
+  <li>A Computing Machine</li>
+  <li>Von Neumann Machines</li>
+  <li>Combinational Circuits</li>
+  <li>Central Processing Unit</li>
+</ul>
 
 #### be sure to check back priodicially and see! for now, enjoy [my site](https://mikeygough.github.io/) :v: 😎
