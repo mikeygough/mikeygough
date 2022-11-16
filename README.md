@@ -4,7 +4,7 @@
 after several years working in finance as a researcher, product manager and marketing director i'm taking some time off to try something new! 🧑‍💻
 
 ### next steps 👣
-from aug 2022 through march 2023 i'm learning as much as i can about programming! [github](https://github.com/mikeygough) is where you can follow along on my projects & progress!
+from aug 2022 through march 2023 i'm learning as much as i can about programming! github is where you can follow along on my projects & progress!
 
 
 ### the curriculum i've laid out for myself looks like this:
