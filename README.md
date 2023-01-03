@@ -1,6 +1,5 @@
-## hey, there! 👋
+## hey, 👋
 
-### backstory 📚
 after several years working at a fintech (acquired) as a researcher, product manager and marketing director i'm taking some time off to learn software development. 🧑‍💻
 
 i'm taking a few online classes and building small projects for experience.
