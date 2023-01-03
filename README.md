@@ -1,9 +1,9 @@
 ## hey, there! 👋
 
 ### backstory 📚
-after several years working in finance as a researcher, product manager and marketing director i'm taking some time off to try something new! 🧑‍💻
+after several years working at a fintech (acquired) as a researcher, product manager and marketing director i'm taking some time off to learn software development. 🧑‍💻
 
-### the curriculum i've laid out for myself looks like this:
+i'm taking a few online classes and building small projects for experience.
 
 | Course                                                              | Completed? |
 | ------------------------------------------------------------------- | :---------:|
