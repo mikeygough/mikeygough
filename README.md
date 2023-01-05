@@ -12,7 +12,5 @@ i'm taking a few online classes and building small projects for experience.
 | [Princeton: Algorithms, Theory, and Machines](https://github.com/mikeygough/java-2) | ❌ |
 | [Princeton: Algorithms, Part I](https://bit.ly/3MQBYoa) | 🔨 |
 | [Princeton: Algorithms, Part II](https://bit.ly/3gr8AJ2) | ❌ |
-| [MIT 6.00.1x: Introduction to Computer Science and Programming Using Python](https://bit.ly/3Uvqo4X) | ❌ |
-| [MIT 6.00.2x: Introduction to Computational Thinking and Data Science ](https://bit.ly/3FVdeJQ) | ❌ |
 
 #### be sure to check back priodicially and see! for now, enjoy [my site](https://mikeygough.github.io/) :v: 😎
