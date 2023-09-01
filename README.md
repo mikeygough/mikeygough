@@ -1,3 +1,6 @@
 ### hey, 👋
 
-as of august 2023 i'll be joining shopify as a dev degree intern. i'll work part-time as a developer while earning a computer science degree.
+currently: training as a developer at shopify while earning a computer science degree from uni.
+previously: worked as a derivatives trader and researcher.
+
+my seemingly impossible good is happening right now.
