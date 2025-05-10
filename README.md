@@ -4,6 +4,6 @@
 
 <i>previously</i>: worked as a derivatives researcher and trader at tastytrade / small exchange.
 
-Javascript, Typescript, Ruby, React and Ruby on Rails
+Ruby, Ruby on Rails, Javascript, Typescript, React
 
 <code>my seemingly impossible good is happening right now.</code>
